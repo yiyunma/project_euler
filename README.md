@@ -3,4 +3,4 @@ project_euler
 
 Project Euler Solutions
 
-This repository gives my solution for Peoject Euler.
+This repository contains solution for Project Euler.
